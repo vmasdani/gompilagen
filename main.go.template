@@ -1,0 +1,9 @@
+package main
+
+import (
+    #applications_header
+)
+
+func main() {
+#apps
+}
