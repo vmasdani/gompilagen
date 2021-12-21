@@ -1,9 +1,12 @@
 package main
 
 import (
-    #applications_header
+#applications_header
 )
 
 func main() {
 #apps
+
+    holdChannel := make(chan int)
+	<-holdChannel
 }
